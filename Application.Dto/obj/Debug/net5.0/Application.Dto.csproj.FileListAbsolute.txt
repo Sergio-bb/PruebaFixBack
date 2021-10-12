@@ -1,0 +1,15 @@
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\bin\Debug\net5.0\Application.Dto.deps.json
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\bin\Debug\net5.0\Application.Dto.runtimeconfig.json
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\bin\Debug\net5.0\Application.Dto.runtimeconfig.dev.json
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\bin\Debug\net5.0\Application.Dto.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\bin\Debug\net5.0\ref\Application.Dto.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\bin\Debug\net5.0\Application.Dto.pdb
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.csproj.AssemblyReference.cache
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.AssemblyInfoInputs.cache
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.AssemblyInfo.cs
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\ref\Application.Dto.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.pdb
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Application.Dto\obj\Debug\net5.0\Application.Dto.genruntimeconfig.cache

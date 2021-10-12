@@ -1,0 +1,14 @@
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\LENOVO W530\OneDrive\Escritorio\PruebaDataIFX\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
