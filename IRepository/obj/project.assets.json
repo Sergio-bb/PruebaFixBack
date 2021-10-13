@@ -6175,11 +6175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\IRepository\\IRepository.csproj",
+      "projectUniqueName": "D:\\Repo\\PruebaFixBack\\IRepository\\IRepository.csproj",
       "projectName": "IRepository",
-      "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\IRepository\\IRepository.csproj",
+      "projectPath": "D:\\Repo\\PruebaFixBack\\IRepository\\IRepository.csproj",
       "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\IRepository\\obj\\",
+      "outputPath": "D:\\Repo\\PruebaFixBack\\IRepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6196,8 +6196,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj"
+            "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj"
             }
           }
         }

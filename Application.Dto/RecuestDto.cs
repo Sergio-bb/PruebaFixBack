@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Application.Dto
+﻿namespace Application.Dto
 {
     public class RecuestDto
 

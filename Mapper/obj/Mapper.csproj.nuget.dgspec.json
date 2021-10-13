@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\Mapper.csproj": {}
+    "D:\\Repo\\PruebaFixBack\\Mapper\\Mapper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj": {
+    "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj",
+        "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj",
         "projectName": "Application.Dto",
-        "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj",
+        "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj",
         "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\obj\\",
+        "outputPath": "D:\\Repo\\PruebaFixBack\\Application.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj": {
+    "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj",
+        "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj",
+        "projectPath": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\obj\\",
+        "outputPath": "D:\\Repo\\PruebaFixBack\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,14 +156,14 @@
         }
       }
     },
-    "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\Mapper.csproj": {
+    "D:\\Repo\\PruebaFixBack\\Mapper\\Mapper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\Mapper.csproj",
+        "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Mapper\\Mapper.csproj",
         "projectName": "Mapper",
-        "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\Mapper.csproj",
+        "projectPath": "D:\\Repo\\PruebaFixBack\\Mapper\\Mapper.csproj",
         "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\obj\\",
+        "outputPath": "D:\\Repo\\PruebaFixBack\\Mapper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,11 +180,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj": {
-                "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj"
+              "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj": {
+                "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj"
               },
-              "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj"
+              "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj": {
+                "projectPath": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj"
               }
             }
           }

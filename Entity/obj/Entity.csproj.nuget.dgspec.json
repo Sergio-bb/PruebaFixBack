@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj": {}
+    "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj": {
+    "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj",
+        "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj",
+        "projectPath": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\obj\\",
+        "outputPath": "D:\\Repo\\PruebaFixBack\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",

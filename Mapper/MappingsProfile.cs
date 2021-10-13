@@ -4,7 +4,7 @@ using Entity;
 
 namespace Mapper
 {
-   public class  MappingsProfile : Profile
+    public class  MappingsProfile : Profile
     {
         public MappingsProfile()
         {

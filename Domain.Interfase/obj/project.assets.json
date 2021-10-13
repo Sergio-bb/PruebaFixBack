@@ -6174,11 +6174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Interfase\\Domain.Interfase.csproj",
+      "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Domain.Interfase\\Domain.Interfase.csproj",
       "projectName": "Domain.Interfase",
-      "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Interfase\\Domain.Interfase.csproj",
+      "projectPath": "D:\\Repo\\PruebaFixBack\\Domain.Interfase\\Domain.Interfase.csproj",
       "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Interfase\\obj\\",
+      "outputPath": "D:\\Repo\\PruebaFixBack\\Domain.Interfase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6195,8 +6195,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Entity\\Entity.csproj"
+            "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Entity\\Entity.csproj"
             }
           }
         }

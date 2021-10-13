@@ -6154,11 +6154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj",
+      "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj",
       "projectName": "Application.Dto",
-      "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj",
+      "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj",
       "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\obj\\",
+      "outputPath": "D:\\Repo\\PruebaFixBack\\Application.Dto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",

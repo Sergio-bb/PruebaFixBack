@@ -6599,11 +6599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\PruebaFIXApi\\PruebaFIX.Api.csproj",
+      "projectUniqueName": "D:\\Repo\\PruebaFixBack\\PruebaFIXApi\\PruebaFIX.Api.csproj",
       "projectName": "PruebaFIX.Api",
-      "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\PruebaFIXApi\\PruebaFIX.Api.csproj",
+      "projectPath": "D:\\Repo\\PruebaFixBack\\PruebaFIXApi\\PruebaFIX.Api.csproj",
       "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\PruebaFIXApi\\obj\\",
+      "outputPath": "D:\\Repo\\PruebaFixBack\\PruebaFIXApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6620,26 +6620,26 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Interface\\Application.Interface.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Interface\\Application.Interface.csproj"
+            "D:\\Repo\\PruebaFixBack\\Application.Interface\\Application.Interface.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Interface\\Application.Interface.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Main\\Application.Main.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Main\\Application.Main.csproj"
+            "D:\\Repo\\PruebaFixBack\\Application.Main\\Application.Main.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Main\\Application.Main.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Core\\Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Core\\Domain.Core.csproj"
+            "D:\\Repo\\PruebaFixBack\\Domain.Core\\Domain.Core.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Domain.Core\\Domain.Core.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Interfase\\Domain.Interfase.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Domain.Interfase\\Domain.Interfase.csproj"
+            "D:\\Repo\\PruebaFixBack\\Domain.Interfase\\Domain.Interfase.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Domain.Interfase\\Domain.Interfase.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\IRepository\\IRepository.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\IRepository\\IRepository.csproj"
+            "D:\\Repo\\PruebaFixBack\\IRepository\\IRepository.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\IRepository\\IRepository.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\Mapper.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Mapper\\Mapper.csproj"
+            "D:\\Repo\\PruebaFixBack\\Mapper\\Mapper.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Mapper\\Mapper.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Repository\\Repository.csproj"
+            "D:\\Repo\\PruebaFixBack\\Repository\\Repository.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Repository\\Repository.csproj"
             }
           }
         }

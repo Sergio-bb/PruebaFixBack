@@ -6194,11 +6194,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Interface\\Application.Interface.csproj",
+      "projectUniqueName": "D:\\Repo\\PruebaFixBack\\Application.Interface\\Application.Interface.csproj",
       "projectName": "Application.Interface",
-      "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Interface\\Application.Interface.csproj",
+      "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Interface\\Application.Interface.csproj",
       "packagesPath": "C:\\Users\\LENOVO W530\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Interface\\obj\\",
+      "outputPath": "D:\\Repo\\PruebaFixBack\\Application.Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO W530\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6215,11 +6215,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Application.Dto\\Application.Dto.csproj"
+            "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Application.Dto\\Application.Dto.csproj"
             },
-            "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\LENOVO W530\\OneDrive\\Escritorio\\PruebaDataIFX_Backend\\Common\\Common.csproj"
+            "D:\\Repo\\PruebaFixBack\\Common\\Common.csproj": {
+              "projectPath": "D:\\Repo\\PruebaFixBack\\Common\\Common.csproj"
             }
           }
         }
